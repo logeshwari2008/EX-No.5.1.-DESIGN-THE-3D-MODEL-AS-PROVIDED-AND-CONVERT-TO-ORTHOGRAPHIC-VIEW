@@ -38,7 +38,8 @@ Switch to drawing mode from design mode
 ## OUTPUT
 
 
-[10th Experiment Drawing.pdf](https://github.com/user-attachments/files/26526911/10th.Experiment.Drawing.pdf)
+<img width="1141" height="817" alt="image" src="https://github.com/user-attachments/assets/e05f2e40-709b-429b-ae31-3d7bd7b2c4ce" />
+
 
 
 
